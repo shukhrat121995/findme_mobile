@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindMe</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_location">Get location</string>
+    <string name="update_location">Update location</string>
+    <string name="lat_s">Lat: %s</string>
+    <string name="lng_s">Lng: %s</string>
+    <string name="lng">Lng:</string>
+    <string name="lat">Lat:</string>
+</resources>

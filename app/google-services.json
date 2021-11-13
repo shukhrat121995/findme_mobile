@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939391877228",
+    "firebase_url": "https://findme-4532d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "findme-4532d",
+    "storage_bucket": "findme-4532d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939391877228:android:518fbb146c7336a8715849",
+        "android_client_info": {
+          "package_name": "com.findme.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939391877228-aqdu839m8pibn4qes8dp6pl2sjvfe9br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5WecwJJ-m8pEt-m9j_-i_Dx3Fa7TvbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939391877228-aqdu839m8pibn4qes8dp6pl2sjvfe9br.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
